@@ -1,16 +1,24 @@
-## Hi there 👋
+# Enoima Blessed Ekpeyong
 
-<!--
-**giftblessed/Giftblessed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web3 Developer | XRPL & Solana Specialist
 
-Here are some ideas to get you started:
+I am a blockchain developer specializing in decentralized technologies with experience in XRPL and Solana ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Tech Stack
+- JavaScript
+- Python
+- XRP Ledger (XRPL)
+- Solana
+- Token Creation & Deployment
+- Web3 Integrations
+
+### 🔹 Blockchain Experience
+- Contributed to XRPL projects: SMOKi, Mallard, Fuzzy
+- Created and deployed tokens on Solana (under NDA)
+- Assisted Web3 projects with technical integrations and support
+- Active contributor in crypto ecosystem growth
+
+### 🔹 Focus
+Building scalable, secure, and innovative blockchain solutions.
+
+📫 Contact: giftblessed229@gmail.com
